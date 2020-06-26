@@ -16,28 +16,28 @@ Podemos observar como con la creación de los metodos para crear cada objeto gr�
 
 ![ObjetosGraficos](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/ClaseObjGraficosService.JPG)
 
-Creación de un Botón por medio del servicio, podemos observar la comparación de como creamos el botón antes y depués con el uso del servicio de la clase objetos gráficos
+### Creación de un Botón por medio del servicio, podemos observar la comparación de como creamos el botón antes y depués con el uso del servicio de la clase objetos gráficos
 
 ![nuevacreación](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/nuecobotoncreacion.JPG)
 
-Creación del label:
+### Creación del label:
 
 ![label](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/nuevacreacionlabel.JPG)
 
-Se crea una clase nueva para el servicio de los objetos decoradores:
+### Se crea una clase nueva para el servicio de los objetos decoradores:
 
 ![optimización de recursos](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/optimizacionderecursos.JPG)
 
-Para que cualquier clase template pueda obtener los objetos decoradores a traves del servicio necesitamos crear unos métodos get que nos retornen estos objetos
+### Para que cualquier clase template pueda obtener los objetos decoradores a traves del servicio necesitamos crear unos métodos get que nos retornen estos objetos
 
 ![Metodo get](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/metodoget.JPG)
 
 ![Ejemplo de llamada de recursos](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/llamadodelosrecursos.JPG)
 
-Se agrega un orden adicional, con el fin de saber que botones u objetos gráficos estamos creando para facilitar el manejo y entendimiento del codigo 
+### Se agrega un orden adicional, con el fin de saber que botones u objetos gráficos estamos creando para facilitar el manejo y entendimiento del codigo 
 
 ![orden adicional](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/OrdenAdicional.JPG)
 
-Al final con toda la modularización del codigo nuestro login se ve así 
+### Al final con toda la modularización del codigo nuestro login se ve así 
 
 [login](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/login_objetos_decoradores.png)
