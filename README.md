@@ -40,4 +40,4 @@ Podemos observar como con la creación de los metodos para crear cada objeto gr�
 
 ### Al final con toda la modularización del codigo nuestro login se ve así 
 
-[login](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/login_objetos_decoradores.png)
+![login](https://github.com/valentinatobo/Optimizacion-Codigo-C4/blob/master/imagenes/login_objetos_decoradores.png)
